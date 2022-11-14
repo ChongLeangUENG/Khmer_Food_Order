@@ -1,5 +1,25 @@
 html {
     overflow-x: hidden;
-  }
+}
 
-  
+body {
+    font-family: "Roboto", sans-serif;
+    color: #9fa1a4;
+    line-height: 1.5;
+}
+
+a {
+    color: #777;
+    text-decoration: none;
+    transition: 0.3s all ease;
+}
+
+a:hover {
+    color: #000;
+}
+
+h1,
+.font-heading {
+    font-family: "Poppins", sans-serif;
+    color: #000;
+}
